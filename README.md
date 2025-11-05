@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/emiryusufcicekdemir?style=social)](https://github.com/emiryusufcicekdemir)
+<img src="https://komarev.com/ghpvc/?username=emiryusufcicekdemir&color=blue"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/emiryusufcicekdemir)
 
 </div>
@@ -49,6 +49,3 @@
 - 🄼 Medium: https://medium.com/@emiryusufcd
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emiryusufcicekdemir&color=blue"/>
-</div> 
