@@ -15,7 +15,7 @@
 - 🎓 Final Year Software Engineering Student
 - 🌱 Focused on continuous learning and self improvement
 - 💻 Passionate about software development
-- 🔍 Looking for a long term internship through Erasmus
+
 
 ## 🛠️ Tech Stack
 
