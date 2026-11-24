@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year Software Engineering Student
-- 🌱 Focused on continuous learning and self improvement
-- 💻 Passionate about software development
+- 🎓 Grad Software Engineer
+- 🌱 Focused on Machine Learning & Mobile App Development
+- 💻 Adventure seeker
 
 
 ## 🛠️ Tech Stack
