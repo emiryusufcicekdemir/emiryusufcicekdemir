@@ -14,7 +14,7 @@
 
 - 🎓 Grad Software Engineer
 - 🌱 Focused on Machine Learning & Mobile App Development
-- 💻 Adventure seeker
+- 💻 App Store Link: https://apps.apple.com/tr/developer/emir-yusuf-cicekdemir/id1875576647?l=en
 
 
 ## 🛠️ Tech Stack
